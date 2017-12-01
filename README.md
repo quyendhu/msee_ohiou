@@ -1,6 +1,4 @@
 # msee_ohiou
-repository for schoolwork from ohiou
-
 Quyen D Hua
 
 Ohio University
